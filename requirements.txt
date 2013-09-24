@@ -1,0 +1,4 @@
+-e git+https://github.com/contextio/Python-ContextIO@8c79ef03c9dcf60efce064d7956649fb8ec71bc0#egg=ContextIO_v2.0_Client_Library-master
+docopt==0.6.1
+rauth==0.6.2
+requests==1.2.3
